@@ -1,0 +1,2 @@
+include ':app', ':nfctaglibrary'
+rootProject.name='NFC tag lib'

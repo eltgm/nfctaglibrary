@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nfctaglibrary</string>
+    <string name="card_title">DTU</string>
+    <string name="service_name">Emulation Service</string>
+</resources>

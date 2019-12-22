@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from [:nfctaglibrary] C:\Users\frees\AndroidStudioProjects\NFCtaglib\nfctaglibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\2ab594f5f4eb2645495ee1d11b9be2b0\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\c8e0c25dfa9a786fd4e7573a773540b4\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\ee2f1caf8c21e272aed5c109b812c439\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\4facf02b52489820ea583e7f5d9cdada\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\f7d2c7d328bcc115ee7961489c449c73\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\33647dd12597d62e45f08e3213fd36ad\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\a6d55f9ecb66c544d3557c7c89959fae\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\6310ab15cd4606ae8fd4d2a00b7ee1c8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\cd42c2098b49d3254475778c55dd6773\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7b46121a7e25631949f0b9dbd6cae299\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\39e2d95ba578622d113cc325a332c553\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7e283721ed10a706bca10b9aba3a299e\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\790d984cbf5cf24358c81921525a45b7\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\ea0271857f047c2d52f5f7d399c82473\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\aa6437f3b722cf5d9bb2f65345bde581\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\4a445d48bb601291e00c6e4848f1b961\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\e4573bf7c4699378e4cfd64c988c0c7b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\72cdc5c274451f3a5c29ebdcadb082e7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\2fce00a0895d1ce84549c2e1632f391b\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:2:5-49
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.NFC
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:4:5-62
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:4:22-59
+uses-feature#android.hardware.nfc
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:7:9-44
+application
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:9:5-41:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7e283721ed10a706bca10b9aba3a299e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7e283721ed10a706bca10b9aba3a299e\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.gitlab.freestyle1448.NFCtaglib.MainActivity
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:22:27-74
+service#com.gitlab.freestyle1448.nfctaglibrary.CardService
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:26:9-40:19
+	android:exported
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:28:13-36
+	android:permission
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:27:13-78
+intent-filter#action:name:android.nfc.cardemulation.action.HOST_APDU_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.nfc.cardemulation.action.HOST_APDU_SERVICE
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:32:17-93
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:32:25-90
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:33:27-73
+meta-data#android.nfc.cardemulation.host_apdu_service
+ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:37:13-39:52
+	android:resource
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:39:17-49
+	android:name
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:38:17-75
+uses-sdk
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+MERGED from [:nfctaglibrary] C:\Users\frees\AndroidStudioProjects\NFCtaglib\nfctaglibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:nfctaglibrary] C:\Users\frees\AndroidStudioProjects\NFCtaglib\nfctaglibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\2ab594f5f4eb2645495ee1d11b9be2b0\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\2ab594f5f4eb2645495ee1d11b9be2b0\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\c8e0c25dfa9a786fd4e7573a773540b4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\c8e0c25dfa9a786fd4e7573a773540b4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\ee2f1caf8c21e272aed5c109b812c439\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\ee2f1caf8c21e272aed5c109b812c439\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\4facf02b52489820ea583e7f5d9cdada\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\4facf02b52489820ea583e7f5d9cdada\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\f7d2c7d328bcc115ee7961489c449c73\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\f7d2c7d328bcc115ee7961489c449c73\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\33647dd12597d62e45f08e3213fd36ad\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\33647dd12597d62e45f08e3213fd36ad\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\a6d55f9ecb66c544d3557c7c89959fae\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\a6d55f9ecb66c544d3557c7c89959fae\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\6310ab15cd4606ae8fd4d2a00b7ee1c8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\6310ab15cd4606ae8fd4d2a00b7ee1c8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\cd42c2098b49d3254475778c55dd6773\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\cd42c2098b49d3254475778c55dd6773\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7b46121a7e25631949f0b9dbd6cae299\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7b46121a7e25631949f0b9dbd6cae299\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\39e2d95ba578622d113cc325a332c553\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\39e2d95ba578622d113cc325a332c553\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7e283721ed10a706bca10b9aba3a299e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\7e283721ed10a706bca10b9aba3a299e\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\790d984cbf5cf24358c81921525a45b7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\790d984cbf5cf24358c81921525a45b7\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\ea0271857f047c2d52f5f7d399c82473\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\ea0271857f047c2d52f5f7d399c82473\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\aa6437f3b722cf5d9bb2f65345bde581\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\aa6437f3b722cf5d9bb2f65345bde581\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\4a445d48bb601291e00c6e4848f1b961\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\4a445d48bb601291e00c6e4848f1b961\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\e4573bf7c4699378e4cfd64c988c0c7b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\e4573bf7c4699378e4cfd64c988c0c7b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\72cdc5c274451f3a5c29ebdcadb082e7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\72cdc5c274451f3a5c29ebdcadb082e7\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\2fce00a0895d1ce84549c2e1632f391b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\2fce00a0895d1ce84549c2e1632f391b\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml

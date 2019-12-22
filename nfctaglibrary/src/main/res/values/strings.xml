@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nfctaglibrary</string>
+    <string name="service_name">Emulation Service</string>
+    <string name="card_title">DTU</string>
+</resources>

@@ -1,0 +1,57 @@
+package com.example.terminal.models;
+
+    import android.content.Context;import android.content.res.TypedArray;import android.os.Build;import android.text.Editable;import android.text.InputType;import android.text.TextWatcher;import android.util.AttributeSet;import android.util.Log;import android.widget.EditText;
+
+    import com.example.terminal.R;
+
+    import java.text.DecimalFormat;import java.text.DecimalFormatSymbols;import java.util.Currency;import java.util.Locale;
+
+    /*** Some note
+<br />* <li>Always use locale US instead of default to make DecimalFormat work well in all
+language
+</li>*/public class CurrencyEditText extends EditText {private char mGroupDivider;private char mMonetaryDivider;private String mLocale = "";private boolean mShowSymbol;private boolean mEraseWhenZero;private int mDecimalPoints;
+
+    private char groupDivider;private char monetaryDivider;
+
+    private Locale locale;private DecimalFormat numberFormat;
+
+    private String currencySymbol;private int fractionDigit;
+
+    public CurrencyEditText(Context context, AttributeSet attrs) {super(context, attrs);this.setInputType(InputType.TYPE_CLASS_NUMBER | InputType.TYPE_NUMBER_FLAG_DECIMAL);
+
+    TypedArray a = context.getTheme().obtainStyledAttributes(attrs, R.styleable.currencyEditText, 0, 0);
+
+    try {if (a.getString(R.styleable.currencyEditText_groupDivider) != null) {this.mGroupDivider = a.getString(R.styleable.currencyEditText_groupDivider).charAt(0);this.groupDivider = mGroupDivider;}
+
+    if (a.getString(R.styleable.currencyEditText_monetaryDivider) != null) {this.mMonetaryDivider = a.getString(R.styleable.currencyEditText_monetaryDivider).charAt(0);this.monetaryDivider = mMonetaryDivider;}
+
+    if (a.getString(R.styleable.currencyEditText_locale) == null)this.locale = getDefaultLocale();else this.mLocale = a.getString(R.styleable.currencyEditText_locale);
+
+    if (a.getString(R.styleable.currencyEditText_showSymbol) != null)this.mShowSymbol = a.getBoolean(R.styleable.currencyEditText_showSymbol, false);
+
+    if (a.getString(R.styleable.currencyEditText_eraseWhenZero) != null)this.mEraseWhenZero = a.getBoolean(R.styleable.currencyEditText_eraseWhenZero, false);
+
+    if (a.getString(R.styleable.currencyEditText_decimalPoints) != null) {this.mDecimalPoints = a.getInt(R.styleable.currencyEditText_decimalPoints, 0);this.fractionDigit = mDecimalPoints;}
+
+    if (mLocale.equals("")) {locale = getDefaultLocale();} else {if (mLocale.contains("-"))mLocale = mLocale.replace("-", "_");
+
+    String[] l = mLocale.split("_");if (l.length > 1) {locale = new Locale(l[0], l[1]);} else {locale = new Locale("", mLocale);}}
+
+    initSettings();} finally {a.recycle();}
+
+    this.addTextChangedListener(onTextChangeListener);}
+
+    /**** If user does not provide a valid locale it throws IllegalArgumentException.** If throws an IllegalArgumentException the locale sets to default locale*/private void initSettings() {boolean success = false;while (!success) {try {if (fractionDigit == 0) {fractionDigit = Currency.getInstance(locale).getDefaultFractionDigits();}
+
+    DecimalFormatSymbols symbols = DecimalFormatSymbols.getInstance(locale);if (mGroupDivider > 0)symbols.setGroupingSeparator(mGroupDivider);groupDivider = symbols.getGroupingSeparator();
+
+    if (mMonetaryDivider > 0)symbols.setMonetaryDecimalSeparator(mMonetaryDivider);monetaryDivider = symbols.getMonetaryDecimalSeparator();
+
+    currencySymbol = symbols.getCurrencySymbol();
+
+    DecimalFormat df = (DecimalFormat) DecimalFormat.getCurrencyInstance(locale);numberFormat = new DecimalFormat(df.toPattern(), symbols);
+
+    if (mDecimalPoints > 0) {numberFormat.setMinimumFractionDigits(mDecimalPoints);}
+
+    success = true;} catch (IllegalArgumentException e) {Log.e(getClass().getCanonicalName(), e.getMessage());
+          
