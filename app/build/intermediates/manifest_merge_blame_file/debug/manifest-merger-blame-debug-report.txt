@@ -26,7 +26,7 @@
 18        android:allowBackup="true"
 18-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:10:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\b61fcb10d7070c66ea9d87bcdc5f3ca8\core-1.1.0\AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
 21-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:11:9-43
