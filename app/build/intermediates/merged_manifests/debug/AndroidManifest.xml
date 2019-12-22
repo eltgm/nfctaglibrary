@@ -33,7 +33,7 @@
         </activity>
 
         <service
-            android:name="com.gitlab.freestyle1448.nfctaglibrary.CardService"
+            android:name="com.github.eltgm.nfctaglibrary.CardService"
             android:exported="true"
             android:permission="android.permission.BIND_NFC_SERVICE" >
 

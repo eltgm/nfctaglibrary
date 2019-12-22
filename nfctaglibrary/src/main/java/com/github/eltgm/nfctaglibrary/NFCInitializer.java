@@ -1,4 +1,4 @@
-package com.gitlab.freestyle1448.nfctaglibrary;
+package com.github.eltgm.nfctaglibrary;
 
 import android.content.Context;
 import android.content.SharedPreferences;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.gitlab.freestyle1448.nfctaglibrary;
+package com.github.eltgm.nfctaglibrary;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -29,8 +29,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Arrays;
 
-import static com.gitlab.freestyle1448.nfctaglibrary.NFCInitializer.APP_PREFERENCES;
-import static com.gitlab.freestyle1448.nfctaglibrary.NFCInitializer.NFC_TAG;
+import static com.github.eltgm.nfctaglibrary.NFCInitializer.APP_PREFERENCES;
+import static com.github.eltgm.nfctaglibrary.NFCInitializer.NFC_TAG;
 
 
 /**

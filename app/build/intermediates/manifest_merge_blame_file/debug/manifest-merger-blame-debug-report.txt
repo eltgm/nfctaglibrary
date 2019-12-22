@@ -26,7 +26,7 @@
 18        android:allowBackup="true"
 18-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:10:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\27cc56087a942b5cd8d731ad450d5b52\core-1.1.0\AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.1.0] C:\Users\frees\.gradle\caches\transforms-2\files-2.1\b61fcb10d7070c66ea9d87bcdc5f3ca8\core-1.1.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
 21-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:11:9-43
@@ -56,8 +56,8 @@
 34
 35        <service
 35-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:26:9-40:19
-36            android:name="com.gitlab.freestyle1448.nfctaglibrary.CardService"
-36-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:27:13-78
+36            android:name="com.github.eltgm.nfctaglibrary.CardService"
+36-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:27:13-70
 37            android:exported="true"
 37-->C:\Users\frees\AndroidStudioProjects\NFCtaglib\app\src\main\AndroidManifest.xml:28:13-36
 38            android:permission="android.permission.BIND_NFC_SERVICE" >
